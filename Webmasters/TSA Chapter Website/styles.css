@@ -1,11 +1,12 @@
 .masthead {
+  position: relative;
+  width: 100%;
   height: 100vh;
-  min-height: 500px;
-  background-image: url('http://getwallpapers.com/wallpaper/full/5/4/8/330938.jpg');
-  background-size: cover;
+  min-height: 35rem;
+  padding: 15rem 0;
+  background: url('http://getwallpapers.com/wallpaper/full/5/4/8/330938.jpg');
   background-position: center;
   background-repeat: no-repeat;
-}
-nav-item{
-  color:white;
+  background-attachment: scroll;
+  background-size: cover;
 }
