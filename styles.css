@@ -10,3 +10,56 @@
   background-attachment: scroll;
   background-size: cover;
 }
+.card1{
+  position: relative;
+  width: 100%;
+  height: 50vh;
+  min-height: 10rem;
+  padding: 5rem 0;
+  background: linear-gradient(to bottom,rgba(22,22,22,.3) 0%, #161616 100%), url('https://i.redd.it/fj1c64we3ovz.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card1:hover{
+  background:url('https://i.redd.it/fj1c64we3ovz.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card1:hover .text-center{
+  opacity:10%;
+}
+.card2{
+  position: relative;
+  width: 100%;
+  height: 50vh;
+  min-height: 10rem;
+  padding: 5rem 0;
+  background: url('https://i.redd.it/fj1c64we3ovz.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card3{
+  position: relative;
+  width: 100%;
+  height: 50vh;
+  min-height: 10rem;
+  padding: 5rem 0;
+  background: url('https://i.redd.it/fj1c64we3ovz.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card4{
+  position: relative;
+  width: 100%;
+  height: 50vh;
+  min-height: 10rem;
+  padding: 5rem 0;
+  background: url('https://i.redd.it/fj1c64we3ovz.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
