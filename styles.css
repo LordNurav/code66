@@ -10,16 +10,6 @@
   background-attachment: scroll;
   background-size: cover;
 }
-.card1,.card2,.card3,.card4{
-  position: relative;
-  width: 100%;
-  height: 50vh;
-  min-height: 10rem;
-  padding: 5rem 0;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 .card1{
   background:url('https://i.redd.it/fj1c64we3ovz.jpg');
 }
@@ -31,6 +21,16 @@
 }
 .card4{
   background: url('https://i.redd.it/fj1c64we3ovz.jpg');
+}
+.card1,.card2,.card3,.card4{
+  position: relative;
+  width: 100%;
+  height: 50vh;
+  min-height: 10rem;
+  padding: 5rem 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .card1 .text-center,.card2 .text-center,.card3 .text-center,.card4 .text-center{
   opacity:25%;
