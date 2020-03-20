@@ -10,17 +10,29 @@
   background-attachment: scroll;
   background-size: cover;
 }
+.mastheadm {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  min-height: 35rem;
+  padding: 15rem 0;
+  background:  linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 60%, /*rgba(22, 22, 22, 0.7) 90%,*/ #0d0000 100%), url('assets/glide_top_view.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
 .card1{
   background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url('assets/glide_front_view.jfif');
 }
 .card2{
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url('assets/glide_front_view.jfif');
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url('assets/torque_front.png');
 }
 .card3{
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url('assets/glide_front_view.jfif');
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url('assets/glide_top_view.png');
 }
 .card4{
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url('assets/glide_front_view.jfif');
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url('assets/torque_inside.png');
 }
 .card1,.card2,.card3,.card4{
   position: relative;
