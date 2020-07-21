@@ -4,7 +4,7 @@
   height: 100vh;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 70%, /*rgba(22, 22, 22, 0.7) 90%,*/ #161616 100%), url('assets/fireblast.png');
+  background: linear-gradient(to bottom, rgba(240, 235, 209, 0.3) 70%, /*rgba(22, 22, 22, 0.7) 90%,*/ #161616 100%), url('assets/fireblast.png');
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -16,7 +16,7 @@
   height: 100vh;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 60%, /*rgba(22, 22, 22, 0.7) 90%,*/ #161616 100%), url('assets/glide_front_view.png');
+  background: linear-gradient(to bottom, rgba(240, 235, 209, 0.3) 60%, /*rgba(22, 22, 22, 0.7) 90%,*/ #161616 100%), url('assets/glide_front_view.png');
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -28,7 +28,7 @@
   height: 100vh;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 70%, /*rgba(22, 22, 22, 0.7) 90%,*/ #161616 100%), url('assets/glide_side_view_doors_open.jpg');
+  background: linear-gradient(to bottom, rgba(240, 235, 209, 0.3) 70%, /*rgba(22, 22, 22, 0.7) 90%,*/ #161616 100%), url('assets/glide_side_view_doors_open.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
