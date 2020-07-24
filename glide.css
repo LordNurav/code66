@@ -41,7 +41,20 @@
   height: 100vh;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 70%, /*rgba(22, 22, 22, 0.7) 90%,*/ #161616 100%), url('assets/man desk 4.jpg');
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 70%, /*rgba(22, 22, 22, 0.7) 90%,*/ #161616 100%), url('assets/man desk 1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.bottom3 {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  min-height: 35rem;
+  padding: 15rem 0;
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 70%, /*rgba(22, 22, 22, 0.7) 90%,*/ #161616 100%), url('assets/man desk 1.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
