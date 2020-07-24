@@ -34,7 +34,13 @@
 .card4{
   background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url('assets/man desk 4.jpg');
 }
-.card1,.card2,.card3,.card4{
+.card5{
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url('assets/man desk 1.jpg');
+}
+.card6{
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url('assets/man desk 2.jpg');
+}
+.card1,.card2,.card3,.card4,.card5,.card6{
   position: relative;
   width: 100%;
   height: 50vh;
@@ -44,10 +50,10 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-.card1 .text-center,.card2 .text-center,.card3 .text-center,.card4 .text-center{
+.card1 .text-center,.card2 .text-center,.card3 .text-center,.card4 .text-center,.card5 .text-center,.card6 .text-center{
   opacity:25%;
   transition: opacity 1s;
 }
-.card1:hover .text-center,.card2:hover .text-center,.card3:hover .text-center,.card4:hover .text-center{
+.card1:hover .text-center,.card2:hover .text-center,.card3:hover .text-center,.card4:hover .text-center,.card5:hover .text-center,.card6:hover .text-center{
   opacity:100%;
 }
