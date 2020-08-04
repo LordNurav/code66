@@ -1,2 +1,2 @@
-# DESKPAL
-A website built to display the second best idea associated with Big T's host of products.
+# CODE 66
+A website built to display the best app on the gosh darn market
