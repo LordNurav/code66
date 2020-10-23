@@ -4,7 +4,7 @@
   height: 100vh;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 70%, /*rgba(22, 22, 22, 0.7) 90%,*/ #161616 100%), url('assets/waveCourse.PNG');
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 70%, /*rgba(22, 22, 22, 0.7) 90%,*/ #161616 100%), url('assets/adiWorking.PNG');
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -40,7 +40,7 @@
   height: 100vh;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 70%, /*rgba(22, 22, 22, 0.7) 90%,*/ #161616 100%), url('assets/man desk 4.jpg');
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 70%, /*rgba(22, 22, 22, 0.7) 90%,*/ #161616 100%), url('assets/guyTalking.PNG');
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -53,7 +53,7 @@
   height: 100vh;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to top, rgba(22, 22, 22, 0.3) 70%, /*rgba(22, 22, 22, 0.7) 90%,*/ #161616 100%), url('assets/talking 1.jpg');
+  background: linear-gradient(to top, rgba(22, 22, 22, 0.3) 70%, /*rgba(22, 22, 22, 0.7) 90%,*/ #161616 100%), url('assets/waveCourse.PNG');
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
