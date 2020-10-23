@@ -16,7 +16,7 @@
   width: 100%;
   min-height: 35rem;
   padding: 15rem 0;
-  background: url('assets/Team.jpg');
+  background: url('assets/team.PNG');
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -54,16 +54,16 @@
   background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url('assets/par.jpg');
 }
 .card7{
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url('assets/bajat.png');
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url('assets/Azhan.png');
 }
 .card8{
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url('assets/bajat.png');
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url('assets/George.png');
 }
 .card9{
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url('assets/bajat.png');
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url('assets/Sameer.png');
 }
 .card10{
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url('assets/bajat.png');
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url('assets/BradNew.png');
 }
 .card1,.card2,.card3,.card4,.card5,.card6,.card7,.card8,.card9,.card10{
   position: relative;
